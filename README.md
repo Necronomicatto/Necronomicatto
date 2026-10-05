@@ -44,7 +44,7 @@ and multiple application flows.
 ## ⚙ Currently Learning ⚙
 
 Java • Spring Boot • REST APIs • PostgreSQL
-Software Architecture • Cloud Development
+Software Architecture • Cloud Development • 
 Networking Devices and Initial Configuration
 
 ---
