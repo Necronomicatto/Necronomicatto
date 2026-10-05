@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arthur Ferreira
+# ✚ Salve, Arthur Ferreira sum ✚
 
 Computer Science student and software developer.
 
@@ -7,7 +7,7 @@ backend development, web technologies, software engineering and recently cyberse
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙ Tech Stack ⚙
 
 Backend
 Java • Spring Boot • REST • PostgreSQL
@@ -23,32 +23,33 @@ Git • GitHub • Docker
 
 ---
 
-## 🚀 Featured Projects
+## ⚙ Featured Projects ⚙
 
-### 🏦 Banking System
+### Ⅰ‧ Banking System
 Java application demonstrating OOP and software design.
 
-### 🗺️ Entertainment Map
+### Ⅱ‧ Entertainment Map
 Interactive map using PostgreSQL/PostGIS with search,
 categories and user-generated content.
 
-### 🎮 Ghost Story
+### Ⅲ‧ Ghost Story
 Game developed in C using Raylib.
 
-### 📱 Mobile Application
+### Ⅳ‧ Mobile Application
 React Native application with authentication
 and multiple application flows.
 
 ---
 
-## 📚 Currently Learning
+## ⚙ Currently Learning ⚙
 
 Java • Spring Boot • REST APIs • PostgreSQL
 Software Architecture • Cloud Development
+Networking Devices and Initial Configuration
 
 ---
 
 
-## 📫 Connect
+## ⚙ Connect ⚙
 
 LinkedIn • GitHub • Email
