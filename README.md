@@ -48,11 +48,6 @@ Software Architecture • Cloud Development
 
 ---
 
-## 📊 GitHub
-
-[stats...]
-
----
 
 ## 📫 Connect
 
