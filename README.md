@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Arthur Ferreira
 
-<!--
-**Necronomicatto/Necronomicatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and software developer.
 
-Here are some ideas to get you started:
+I enjoy building applications, APIs and games while exploring
+backend development, web technologies, software engineering and recently cybersec.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+Backend
+Java • Spring Boot • REST • PostgreSQL
+
+Frontend
+JavaScript • HTML • CSS • React
+
+Game Development
+C • Raylib • Phaser
+
+Tools
+Git • GitHub • Docker
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Banking System
+Java application demonstrating OOP and software design.
+
+### 🗺️ Entertainment Map
+Interactive map using PostgreSQL/PostGIS with search,
+categories and user-generated content.
+
+### 🎮 Ghost Story
+Game developed in C using Raylib.
+
+### 📱 Mobile Application
+React Native application with authentication
+and multiple application flows.
+
+---
+
+## 📚 Currently Learning
+
+Java • Spring Boot • REST APIs • PostgreSQL
+Software Architecture • Cloud Development
+
+---
+
+## 📊 GitHub
+
+[stats...]
+
+---
+
+## 📫 Connect
+
+LinkedIn • GitHub • Email
